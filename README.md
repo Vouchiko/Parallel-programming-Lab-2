@@ -13,7 +13,8 @@
 
 В данной лабораторной продемострирована реализация параллельного вычисления матриц:
 
-`Matrix multiplyMatrix(const Matrix& a, const Matrix& b, const int threads_num) {
+```
+Matrix multiplyMatrix(const Matrix& a, const Matrix& b, const int threads_num) {
     int size = a.size();
     Matrix result(size, vector<int>(size, 0));
     
@@ -28,7 +29,8 @@
         return result;
     
     
-}`
+}
+```
 
 ### Характеристики компьютера
 - CPU - IntelCore i5-11600KF 3.90GHz 
