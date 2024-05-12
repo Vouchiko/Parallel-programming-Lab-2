@@ -38,6 +38,6 @@ Matrix multiplyMatrix(const Matrix& a, const Matrix& b, const int threads_num) {
 - RAM - 16 GB
 
 ### Визуализация 
-![test](https://github.com/Vouchiko/Parallel-programming-Lab-2/blob/main/consumed%20time/Picture.png)
+!(https://github.com/Vouchiko/Parallel-programming-Lab-2/blob/main/consumed%20time/Picture.png)
 
    
